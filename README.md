@@ -1,2 +1,1 @@
-# Nes-tetris-assets-and-sound
-Idk read the tittle
+This is for use in web projects I don't know, whatever Just give credit to the repository, Nintendo, and The Tetris Company, and that's it, you're good to go.
